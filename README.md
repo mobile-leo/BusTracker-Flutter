@@ -14,7 +14,7 @@ Aplicativo móvel de rastreamento de ônibus em tempo real para a cidade de São
 <div align="center">
   <img src="assets/screenshots/tela1.jpeg" width="220" alt="Mapa ao vivo" />
   <img src="assets/screenshots/tela2.jpeg" width="220" alt="Previsão de chegada" />
-  <img src="assets/screenshots/tela3.png" width="220" alt="Detalhe da linha" />
+  <img src="assets/screenshots/tela3.jpeg" width="220" alt="Detalhe da linha" />
   <br/><br/>
   <img src="assets/screenshots/tela4.jpeg" width="220" alt="Busca de linhas" />
   <img src="assets/screenshots/tela5.jpeg" width="220" alt="Favoritos" />
